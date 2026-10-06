@@ -27,7 +27,7 @@ public class ConfiguracionBD {
 
     // Credenciales
     public static final String USUARIO  = "root";
-    public static final String PASSWORD = "Asgj.032917@"; // Coloca aquí tu contraseña si la tienes
+    public static final String PASSWORD = "12345"; // Coloca aquí tu contraseña si la tienes
     
     // URL de conexión para MySQL
     public static final String URL =
