@@ -98,7 +98,7 @@ public class FrameTablas extends javax.swing.JFrame {
         jTextAreaExplicacion.setColumns(20);
         jTextAreaExplicacion.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jTextAreaExplicacion.setRows(5);
-        jTextAreaExplicacion.setText("El presente reporte tabular se genera a partir de la unificación (JOIN) de los \ncatálogos geográficos estatales y la tipología de delitos con la tabla \ntransaccional de incidencias. Esto permite transformar identificadores \nnuméricos en información legible, mostrando la relación directa entre un \nestado, el tipo de crimen y la cantidad de casos ocurridos en un año \nespecífico, facilitando así el análisis de la seguridad pública.");
+        jTextAreaExplicacion.setText("El presente reporte tabular se genera a partir de la unificación (JOIN) de los \ncatálogos geográficos estatales y la tipología de delitos con la tabla \ntransaccional de incidencias. Esto permite transformar identificadores \nnuméricos en información legible, mostrando la relación directa entre un \nestado, el tipo de crimen y la cantidad de casos ocurridos en un año \nespecífico, facilitando así el análisis de la seguridad pública.\n\nFuentes:\nSESNSP, Incidencia delictiva del fuero común \nSESNSP, Incidencia delictiva del fuero común a nivel municipal\nIMPLAN Torreón, Monitor de Seguridad\nINEGI, Catálogo Único de Claves de Áreas Geoestadísticas");
         jTextAreaExplicacion.setWrapStyleWord(true);
         jScrollPane2.setViewportView(jTextAreaExplicacion);
 
